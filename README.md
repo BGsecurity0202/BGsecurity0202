@@ -1,7 +1,7 @@
  <h1>Hi, I'm Bianka, an IT professional with a passion for cybersecurity and cloud technologies </a>☺</h1>
 
 <b>Microsoft Azure Entra ID</b>
-- [Creating User's in Entra ID]()
+- [Creating User's in Entra ID](https://github.com/BGsecurity0202/user-accounts)
 - [Cloud Provisioning - P2 Licensing]()
 - [Role Assignments]()
 - [Group Assignments]()
