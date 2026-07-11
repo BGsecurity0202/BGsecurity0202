@@ -4,7 +4,7 @@
 - [Creating User's in Entra ID](https://github.com/BGsecurity0202/user-accounts)
 - [Cloud Provisioning - P2 Licensing](https://github.com/BGsecurity0202/p2-licensing)
 - [Role Assignments](https://github.com/BGsecurity0202/role-assignments)
-- [Group Assignments]()
+- [Group Assignments](https://github.com/BGsecurity0202/group-assign)
 - [Identity Lifecycle]()
 - [Audit Logs]()
 - [Sign-In Logs]()
