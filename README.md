@@ -7,7 +7,7 @@
 - [Group Assignments](https://github.com/BGsecurity0202/group-assign)
 - [Identity Lifecycle](https://github.com/BGsecurity0202/identity-lifecycle)
 - [Audit Logs]()
-- [Sign-In Logs]()
+- [Sign-In Logs](https://github.com/BGsecurity0202/sign-in-logs)
 - [Authentication]()
 
 
