@@ -15,6 +15,6 @@
 
 
 
-- 🌱 I’m currently learning my third language
-- ⚡ Fun fact: Equal parts tech enthusiast and cinema lover
+- 🌱 I’m currently learning my third language.
+- ⚡ Fun fact: Equal parts tech enthusiast and cinema lover.
   
