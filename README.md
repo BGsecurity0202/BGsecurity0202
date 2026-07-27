@@ -8,7 +8,7 @@
 - [Identity Lifecycle](https://github.com/BGsecurity0202/identity-lifecycle)
 - [Audit Logs](https://github.com/BGsecurity0202/audit-logs)
 - [Sign-In Logs](https://github.com/BGsecurity0202/sign-in-logs)
-- [Authentication]()
+- [Authentication](https://github.com/BGsecurity0202/authentication)
 
 
 
